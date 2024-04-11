@@ -1,0 +1,37 @@
+﻿<html>
+<head>
+    <title>User management</title>
+</head>
+<body>
+    <h1 style="color: red;">Unos novog kluba:</h1>
+    <form accept-charset="UTF-8" action="http://localhost:9500/dodaj">
+
+        <table>
+            <tr>
+                <td>Naziv:</td>
+                <td><input type="text" name="naziv" /></td>
+            </tr>
+            <tr>
+                <td>Grad:</td>
+                <td><select name="grad">
+                    <option>Novi Sad</option>
+                    <option>Beograd</option>
+                    <option>Nis</option>
+                </select></td>
+            </tr>
+            <tr>
+                <td>Aktivan:</td>
+                <td><input type="checkbox" name="aktivan" /></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="dodaj" /></td>
+            </tr>
+            
+        </table>
+
+        
+    </form>
+
+</body>
+</html>

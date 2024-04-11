@@ -1,0 +1,55 @@
+<html>
+
+<body>
+    <h1 style="color:blue">Tabela</h1>
+    <table>
+        <th>#</th>
+        <th><b>Klub</b></th>
+        <th><b>Bodovi</b></th>
+        <th><b>Akcije</b></th>
+        <tr>
+            <td>1</td>
+            <td>FK ludilo</td>
+            <td>23</td>
+            <td><a href="izmeni?id=1">Izmena podataka</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>FK bihac 93</td>
+            <td>14</td>
+            <td><a href="izmeni?id=2">Izmena podataka</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>ok</td>
+            <td>0</td>
+            <td><a href="izmeni?id=3">Izmena podataka</td>
+        </tr>
+    </table>
+
+    <h3><a href="http://localhost:9500/">Dodaj novi klub</h3>
+    <h3><a href="http://localhost:9500/vodeci">Prikazi klub</h3>
+    <h1 style="color:blue">Upis bodova</h1>
+    <table>
+        <form action="">
+            <tr>
+                <td>Klub:</td>
+                <td><select name="klub">
+                        <option>FK ludilo</option>
+                        <option>FK bihac 93</option>
+                        <option>ok</option>
+                    </select></td>
+            </tr>
+            <tr>
+                <td>Bodovi:</td>
+                <td><input type="number" name="bodovi"></td>
+            </tr>
+            <tr>
+                <td><input type="submit">Unesi</td>
+            </tr>
+        </form>
+    </table>
+
+</body>
+
+</html>

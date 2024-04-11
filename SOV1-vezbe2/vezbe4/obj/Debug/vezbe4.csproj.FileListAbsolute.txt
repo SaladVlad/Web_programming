@@ -1,0 +1,7 @@
+E:\Faks\Web\vezbe4\vezbe4\bin\Debug\vezbe4.exe.config
+E:\Faks\Web\vezbe4\vezbe4\bin\Debug\vezbe4.exe
+E:\Faks\Web\vezbe4\vezbe4\bin\Debug\vezbe4.pdb
+E:\Faks\Web\vezbe4\vezbe4\obj\Debug\vezbe4.csproj.AssemblyReference.cache
+E:\Faks\Web\vezbe4\vezbe4\obj\Debug\vezbe4.csproj.CoreCompileInputs.cache
+E:\Faks\Web\vezbe4\vezbe4\obj\Debug\vezbe4.exe
+E:\Faks\Web\vezbe4\vezbe4\obj\Debug\vezbe4.pdb

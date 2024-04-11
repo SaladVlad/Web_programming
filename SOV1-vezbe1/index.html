@@ -1,0 +1,66 @@
+<html>
+<head>
+    <title>Vezba za sov1 - index</title>
+    <meta charset="utf-8">
+    <style>
+        p{color: green;}
+        h1{font-weight: bolder;
+        text-align: center;
+        font-style: oblique;}
+    </style>
+</head>
+<body>
+    <h1>Library of books</h1>
+    <form accept-charset="utf-8" action="http://localhost:5500/add">
+        <table style="border: 2px solid black;margin-left: auto;margin-right: auto; text-align: center;" >
+            <tr>
+                <td>
+                    Enter a new book:
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Name: <input name="name" type="text">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Writer name: <input name="writer" type="text">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Price: <input name="price" type="number">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input value="Add" type="submit">
+                </td>
+            </tr>
+        </table>
+    </form>
+    <br>
+    <form accept-charset="utf-8" action="http://localhost:5500/find">
+        <table style="border: 2px solid black;margin-left: auto;margin-right: auto; text-align: center;" >
+            <tr>
+                <td>
+                    Search for a book:
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Name: <input name="name" type="text">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input value="Find" type="submit">
+                </td>
+            </tr>
+        </table>
+    </form>
+    
+
+</body>
+</html>
