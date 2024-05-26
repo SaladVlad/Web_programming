@@ -1,0 +1,19 @@
+﻿@model int
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AlreadyExists</title>
+</head>
+<body>
+    <div> 
+        <p>Porudzbina sa kodom <b>@Model</b> vec postoji!</p>
+        @Html.ActionLink("Povratak na pocetnu stranicu","Index","Home")
+    </div>
+</body>
+</html>

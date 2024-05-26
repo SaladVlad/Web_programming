@@ -1,0 +1,75 @@
+﻿@using 
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Shopping cart</title>
+    </head>
+    <body>
+
+        @{
+            Products products = (Products)Cache["products"];
+            if (products == null)
+            {
+                var dataFile = Server.MapPath("~/App_Data/products.txt");
+                products = new Products(dataFile);
+                Cache["products"] = products;
+            }
+
+            ShoppingCart sc = (ShoppingCart)Session["sc"];
+            if (sc == null)
+            {
+                sc = new ShoppingCart();
+                Session["sc"] = sc;
+            }
+
+            string itemId = Request["itemId"] != null ? Request["itemId"] : "";
+            string itemCount = Request["itemCount"] != null ? Request["itemCount"] : "";
+            if (!itemId.Equals("") && !itemCount.Equals(""))
+            {
+                sc.Add(new ShoppingCartItem(products.list[itemId], int.Parse(itemCount)));
+            }
+            if (Request["itemPostitonFormInput"]!=null && sc.items.Count > int.Parse(Request["itemPostitonFormInput"]))
+            {
+                sc.items.RemoveAt(int.Parse(Request["itemPostitonFormInput"]));
+            }
+            if (Request["itemPostitonLink"] != null && sc.items.Count > int.Parse(Request["itemPostitonLink"]))
+            {
+                sc.items.RemoveAt(int.Parse(Request["itemPostitonLink"]));
+            }
+
+        }
+
+        Proizvodi u korpi:
+        <table>
+            <tr bgcolor="lightgrey"><th>Naziv</th><th>Jedinicna cena</th><th>Komada</th><th>Ukupna cena</th> <th>Akcija</th></tr>
+            @{ var brojac = 0;}
+            @foreach (ShoppingCartItem i in sc.items)
+            {
+            <tr>
+            <td> @i.product.name</td>
+            <td> @i.product.price</td>
+            <td> @i.count</td>
+            <td> @i.total</td>
+            <td>
+                <form action="" method="get">
+                    <input type="hidden" name="itemPostitonFormInput" value="@brojac">
+                    dugme:<input type="submit" value="   " style="background-image: url('Content/ErrorCircle.png'); border:none; background-repeat:no-repeat;background-size:100% 100%;">
+                </form>
+                link:<a href="?itemPostitonLink=@brojac"><img src="Content/ErrorCircle.png"></a>
+            </td>
+			</tr>
+            brojac++;
+            }
+
+        </table>
+
+        <p>
+            Ukupno: @sc.Total dinara.
+        </p>
+
+        <p>
+            <a href="~/index.cshtml">Povratak</a>
+        </p>
+
+</body>
+</html>

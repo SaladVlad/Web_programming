@@ -1,0 +1,55 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<div>@ViewBag.Message</div>
+<h2>List all Users</h2>
+
+<form action="/Users/SearchByRole">
+    <input list="roles" name="role" />
+    <datalist id="roles">
+        <option value="ADMINISTRATOR"></option>
+        <option value="MODERATOR"></option>
+        <option value="GUEST"></option>
+    </datalist>
+    <input type="submit" value="Search by role" />
+</form>
+
+
+<table class="table">
+    <tr>
+        <th>Users</th>
+    </tr>
+
+    @foreach (var item in ViewBag.users)
+    {
+        <tr>
+            <td>
+                @item.Username
+            </td>
+            <td>
+                @item.Role
+            </td>
+            <td>
+                <a href="/Users/Delete?username=@item.Username">Delete</a>
+            </td>
+        </tr>
+    }
+
+</table>
+
+<form action="/Users/SearchByUsername">
+    <input name="username" type="text" />
+    <input type="submit" value="Search by username" />
+</form>
+
+
+@if(ViewBag.foundUser != null && ViewBag.foundUser != "not_found")
+{
+    <p>User found: @ViewBag.foundUser</p>
+}
+else if (ViewBag.foundUser == "not_found")
+{
+    <p>User not found!</p>
+}
+

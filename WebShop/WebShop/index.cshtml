@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>ASP.NET web shop</title>
+    </head>
+    <body>
+        <h3>Primer WebShop aplikacije u ASP.NET tehnologiji</h3>
+
+        Raspolozivi proizvodi:
+        @{ 
+            Products products = (Products)Cache["products"];
+            if (products == null)
+            {
+                var dataFile = Server.MapPath("~/App_Data/products.txt");
+                products = new Products(dataFile);
+                Cache["products"] = products;
+                //Cache.Insert("products", products, null, DateTime.Now.AddMinutes(10),
+                //    System.Web.Caching.Cache.NoSlidingExpiration);
+                //Cache.Insert("mojObjekat2", "Sunčan dan 3", null, 
+                //    System.Web.Caching.Cache.NoAbsoluteExpiration, TimeSpan.FromMinutes(10));
+
+            }
+        }
+        <table border="1">
+            <tr bgcolor="lightgrey">
+                <th>Naziv</th>
+                <th>Cena</th>
+                <th>&nbsp;</th>
+            </tr>
+            
+            @foreach (Product p in products.list.Values)
+            {
+            <tr>
+                <td>@p.name</td>
+                <td>@p.price</td>
+                <td>
+                    <form method="get" action="shoppingCart.cshtml">
+                        <input type="text" value="1" size="3" name="itemCount">
+                        <input type="hidden" name="itemId" value="@p.id">
+                        <input type="submit" value="Dodaj">
+                    </form>
+                </td>
+            </tr>
+            }
+        </table>
+
+        <p>
+            <a href="shoppingCart.cshtml">Pregled sadrzaja korpe</a>
+        </p>
+
+    </body>
+</html>

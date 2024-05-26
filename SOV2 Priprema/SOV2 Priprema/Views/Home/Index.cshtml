@@ -1,0 +1,43 @@
+﻿@using SOV2_Priprema.Models
+@model IEnumerable<Product>
+@{
+    ViewBag.Title = "Index";
+    
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Web shop</title>
+</head>
+<body>
+
+    <h2>Web shop</h2>
+    <div>
+        <table>
+            <tr><th>Shopping list</th></tr>
+            @foreach (Product item in Model)
+            {
+                <tr>
+                    <td>@item.name</td>
+                    <td>@item.price</td>
+                    <td>
+                        <form method="post" action="~/Cart/Add">
+                            <input type="text" name="productID" value="@item.id" hidden />
+                            <input type="submit" value="Add" />
+
+                        </form>
+                    </td>
+                </tr>
+            }
+        </table>
+
+        @Html.ActionLink("Cart", "Index", "Cart");
+
+        <br /><br />
+        @Html.ActionLink("Logout", "Logout", "Authentication");
+    </div>
+</body>
+</html>

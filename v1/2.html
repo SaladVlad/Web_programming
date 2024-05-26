@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Registracija</title>
+    </head>
+    <body>
+        <h2 style="color: blue; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Produzena registracija</h2>
+        <p style="font-size: 12pt;">Na ovoj stranici mozete obaviti produzenje registracije vaseg automobila<br>Molimo vas popunite sledeci formular:</p>
+
+    <form>
+        <table style=" border: 3pt solid black; border-color: peachpuff;">
+           <tr>
+            <th colspan="2" style="background-color: lightgray;">Produzenje registracije</th>
+           </tr>
+           <tr style="background-color: grey;">
+            <td style="width: 100pt; ">
+                Ime:
+            </td>
+            <td><input id="ime" type="text"></td>
+           </tr>
+           <tr style="background-color: lightgray;">
+            <td style="width: 100pt;">
+                Prezime:
+            </td>
+            <td><input id="prezime" type="text" autofocus></td>
+           </tr>
+           <tr style="background-color: grey;">
+            <td style="width: 100pt;">
+                Jmbg:
+            </td>
+            <td>
+                <input type="text" required>
+            </td>
+           </tr>
+           <tr style="background-color: lightgray;">
+            <td style="width: 100pt;">
+                Marka vozila:
+            </td>
+            <td>
+                <input list="automobili" name="automobil" id="automobil">
+                <datalist id="automobili">
+                    <option value="Merdecess">Merdecess</option>
+                    <option value="Audi">Audi</option>
+                </datalist>
+            </td>
+           </tr>
+           <tr>
+            <td style="width: 100pt;">
+                Tip vozila:
+            </td>
+            <td>
+                <input id="prezime" type="text">
+            </td>
+           </tr>
+           <tr>
+            <td style="width: 100pt;">
+                Boja vozila:
+            </td>
+            <td>
+                <input type="color">
+            </td>
+           </tr>
+           <tr>
+            <td style="width: 100pt;">
+                Registarska oznaka:
+            </td>
+            <td>
+                <input id="prezime" type="text">
+            </td>
+           </tr>
+           <tr>
+            <td style="width: 100pt;">
+                Datum reg:
+            </td>
+            <td>
+                <input id="prezime" type="date" max="2024-03-05">
+            </td>
+           </tr>
+           <tr style="background-color: lightgray;">
+            <td colspan="2" align="center">
+                <button type="submit" formaction="2.2.html">Posalji</button>
+            </td>
+           </tr>
+        </table>
+    </form>
+
+    </body>
+</html>

@@ -1,0 +1,37 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Shopping cart</title>
+</head>
+<body>
+    Proizvodi u korpi:
+    <table>
+        <tr bgcolor="lightgrey"><th>Naziv</th><th>Jedinicna cena</th><th>Komada</th><th>Ukupna cena</th></tr>
+        @foreach (ShoppingCartItem i in ViewBag.sc.items)
+            {
+            <tr>
+                <td> @i.product.name</td>
+                <td> @i.product.price</td>
+                <td> @i.count</td>
+                <td> @i.total</td>
+            </tr>
+        }
+
+    </table>
+
+    <p>
+        Ukupno: @ViewBag.sc.Total dinara.
+    </p>
+
+    <p>
+        <a href="~/Home">Povratak</a>
+    </p>
+
+</body>
+</html>

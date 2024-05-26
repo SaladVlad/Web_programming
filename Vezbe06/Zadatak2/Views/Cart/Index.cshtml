@@ -1,0 +1,25 @@
+﻿@using Zadatak2.Models
+@model Dictionary<Product, Int32>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Shopping cart</h2>
+
+    
+    <table border="1">
+        <tr><th>Product name </th><th>Quantity </th><th>Price per product</th></tr>
+        @foreach (Product product in Model.Keys)
+        {
+            <tr>
+                <td>@product.name</td>
+                <td>@Model[product]</td>
+                <td>@product.price</td>
+            </tr>
+        }
+        <tr><td colspan="3" align="right">Total price: @ViewBag.TotalPrice</td></tr>
+    </table>
+<form action="~/Cart/Buy">
+    <input type="submit" value="Buy"/>
+</form>
+

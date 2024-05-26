@@ -1,0 +1,49 @@
+﻿@using SOV2WebShop.Models
+@model Dictionary<Product,int>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Your Cart</title>
+</head>
+<body>
+    <div> 
+        <h2>Your cart:</h2>
+
+        <table border="1">
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Quantity</th>
+            </tr>
+            @{int totalPrice = 0;}
+
+            @if (Model!=null)
+            {
+                foreach (Product product in Model.Keys)
+                {
+                    totalPrice += product.Price;
+                    <tr>
+                        <td>@product.Id</td>
+                        <td>@product.Name</td>
+                        <td>@product.Price</td>
+                        <td>@Model[product]</td>
+                    </tr>
+
+                }
+            }
+
+        </table>
+        <h4>Total price: @totalPrice</h4>
+        <form action="~/Cart/Buy" method="post">
+            <input type="submit" value="Buy" />
+        </form>
+    </div>
+</body>
+</html>

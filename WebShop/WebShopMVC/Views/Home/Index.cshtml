@@ -1,0 +1,65 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <meta name="viewport" content="width=device-width"/>
+    <title>ASP.NET MVC web shop</title>
+</head>
+<body>
+    <h3>Primer WebShop aplikacije u ASP.NET MVC 5 tehnologiji</h3>
+
+    Raspolozivi proizvodi:
+    <table border="1">
+        <tr bgcolor="lightgrey">
+            <th>Naziv</th>
+            <th>Cena</th>
+            <th>&nbsp;</th>
+        </tr>
+
+        @foreach (Product p in ViewBag.products.list.Values)
+        {
+            <tr>
+                <td>@p.name</td>
+                <td>@p.price</td>
+                <td>
+                    <form method="post" action="~/ShoppingCart/Add">
+                        <input type="text" value="1" size="3" name="count">
+                        <input type="hidden" name="id" value="@p.id">
+                        <input type="submit" value="Dodaj">
+                    </form>
+                </td>
+            </tr>
+        }
+    </table>
+
+    <p>
+        <a href="/ShoppingCart">Pregled sadrzaja korpe</a>
+    </p>
+    <script>
+        $(document).ready(function () {
+            $("button#b_3").click(function () {
+                var vrednostKat = document.getElementById('vrednostKatID').value;
+                alert("Unesena kategojija je " + vrednostKat);
+                $("#div2").load('/Home/LoadSadrzaj?nazivKategorije=' + vrednostKat + " div#produkt", function (responseTxt, statusTxt, xhr) {
+                    alert(responseTxt);
+                    if (statusTxt == "success")
+                        alert("External content loaded successfully!");
+                    if (statusTxt == "error")
+                        alert("Error: " + xhr.status + ": " + xhr.statusText);
+                });
+            });
+        });
+
+    </script>
+
+    Naziv produkta:<input type="text" name="vrednostKat" id="vrednostKatID" /> <br />
+    <button id="b_3">Preuzmi određeni deo sadrzaja sa dinamički generisane stranice iz WebShopMVC primera</button><br /><br />
+    <div id="div2">Ovaj sadržaj će se promeniti</div>
+
+</body>
+</html>

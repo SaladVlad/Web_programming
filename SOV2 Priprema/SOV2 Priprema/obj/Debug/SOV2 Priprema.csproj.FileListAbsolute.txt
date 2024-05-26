@@ -1,0 +1,72 @@
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\SOV2 Priprema.dll.config
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\SOV2 Priprema.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\SOV2 Priprema.pdb
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\csc.exe
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\csc.exe.config
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\csc.rsp
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\csi.exe
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\csi.exe.config
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\csi.rsp
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.AppContext.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Collections.Immutable.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Console.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Globalization.Calendars.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.IO.Compression.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.IO.FileSystem.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Net.Http.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Net.Sockets.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Reflection.Metadata.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.ValueTuple.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Xml.XPath.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\vbc.exe
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\vbc.exe.config
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\vbc.rsp
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\VBCSCompiler.exe
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\roslyn\VBCSCompiler.exe.config
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\Microsoft.Web.Infrastructure.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\System.Web.Helpers.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\System.Web.Mvc.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\System.Web.Razor.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\System.Web.Webpages.Deployment.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\System.Web.Webpages.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\System.Web.Webpages.Razor.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\System.Web.Razor.xml
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\System.Web.Webpages.xml
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\System.Web.Webpages.Deployment.xml
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\System.Web.Webpages.Razor.xml
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\System.Web.Helpers.xml
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\System.Web.Mvc.xml
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\obj\Debug\SOV2 Priprema.csproj.AssemblyReference.cache
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\obj\Debug\SOV2 Priprema.csproj.CoreCompileInputs.cache
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\obj\Debug\SOV2 Pri.186A67C4.Up2Date
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\obj\Debug\SOV2 Priprema.dll
+E:\Faks\Web\SOV2 Priprema\SOV2 Priprema\obj\Debug\SOV2 Priprema.pdb

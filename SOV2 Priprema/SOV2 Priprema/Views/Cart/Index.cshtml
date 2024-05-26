@@ -1,0 +1,34 @@
+﻿@using SOV2_Priprema.Models
+@model Dictionary<Product,int>
+@{
+    ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Cart</title>
+</head>
+<body>
+    <h2>Shopping cart</h2>
+    <div> 
+        <table border="1">
+            <tr><th>Product name </th><th>Quantity </th><th>Price per product</th></tr>
+            @foreach(Product product in Model.Keys)
+            {
+                <tr>
+                    <td>@product.name</td>
+                    <td>@Model[product]</td>
+                    <td>@product.price</td>
+                </tr>
+            }
+            <tr><td colspan="3" align="right">Total Price: @ViewBag.TotalPrice</td></tr>
+        </table>
+    </div>
+    <form action="~/Cart/Buy">
+        <input type="submit" value="Buy" />
+    </form>
+</body>
+</html>

@@ -1,0 +1,54 @@
+﻿@using Resort.Models
+@model List<Porudzbina>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Table view</title>
+</head>
+<body>
+    <div>
+        <table border="1">
+            @if (ViewBag.Message != null)
+            {
+                <tr>
+                    <th colspan="5">@ViewBag.Message</th>
+                </tr>
+            }
+            <tr>
+                <th colspan="5">
+
+                    @if (ViewBag.Message != null)
+                    {<span>Preostale</span>} Porudzbine
+
+                </th>
+            </tr>
+
+            <tr style="font-weight:bolder">
+                <th>KOD</th>
+                <th>Adresa</th>
+                <th>Telefon</th>
+                <th>Proizvod</th>
+                <th>Tip placanja</th>
+            </tr>
+
+            @foreach (Porudzbina porudzbina in Model)
+            {
+                <tr>
+                    <td>@porudzbina.Kod</td>
+                    <td>@porudzbina.Adresa</td>
+                    <td>@porudzbina.Telefon</td>
+                    <td>@porudzbina.Proizvod.ToUpper()</td>
+                    <td>@porudzbina.TipPlacanja.ToUpper()</td>
+                </tr>
+            }
+        </table>
+        @Html.ActionLink("Povratak na pocetnu stranicu", "Index", "Home")
+    </div>
+</body>
+</html>

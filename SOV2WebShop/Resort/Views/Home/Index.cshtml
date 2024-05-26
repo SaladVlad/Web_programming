@@ -1,0 +1,55 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Porudzbina</title>
+</head>
+<body>
+    <div> 
+        <h2>Dodaj novu porudzbinu</h2>
+        <form action="~/Table/Add" method="post">
+            <label>Kod poruzdbine:</label>
+            <input type="number" name="kod" />
+            <br />
+            <label>Adresa: </label>
+            <input type="text" name="adresa" />
+            <br />
+            <label>Broj telefona: </label>
+            <input type="text" name="brojTelefona" />
+            <br />
+            <label>Izaberite proizvod: </label>
+            <select name="proizvod">
+                <option>Burger</option>
+                <option>Pizza</option>
+                <option>Palacinka</option>
+                <option>Sendvic</option>
+            </select>
+            <br />
+            <label>Nacin placanja: </label>
+            <select name="nacinPlacanja">
+                <option>Gotovina</option>
+                <option>Kartica</option>
+            </select>
+            <br />
+            <input type="checkbox" name="checkbox" />
+            <input type="submit" value="Dodaj" />
+        </form>
+
+        <br />
+        <h3>Pretraga porudzbina:</h3>
+        <br />
+        <form action="~/Table/Delete">
+            <label>Kod:</label>
+            <input type="number" name="kodZaPretragu" />
+            <br />
+            <input type="submit" value="Pretrazi"/>
+        </form>
+    </div>
+</body>
+</html>

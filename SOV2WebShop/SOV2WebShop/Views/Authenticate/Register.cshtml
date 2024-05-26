@@ -1,0 +1,26 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Register</title>
+</head>
+<body>
+    <div>
+        <h2>Registration form</h2>
+        <p>@ViewBag.Message</p>
+        <form action="~/Authenticate/Register" method="post">
+            <label>Username:</label>
+            <input type="text" name="username" />
+            <label>Password:</label>
+            <input type="password" name="password" />
+            <input type="submit" value="Register" />
+        </form>
+    </div>
+</body>
+</html>

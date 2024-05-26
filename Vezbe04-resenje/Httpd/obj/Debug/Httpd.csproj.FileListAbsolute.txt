@@ -1,0 +1,7 @@
+E:\Faks\Web\Vezbe04-resenje\Httpd\bin\Debug\Httpd.exe.config
+E:\Faks\Web\Vezbe04-resenje\Httpd\bin\Debug\Httpd.exe
+E:\Faks\Web\Vezbe04-resenje\Httpd\bin\Debug\Httpd.pdb
+E:\Faks\Web\Vezbe04-resenje\Httpd\obj\Debug\Httpd.csproj.AssemblyReference.cache
+E:\Faks\Web\Vezbe04-resenje\Httpd\obj\Debug\Httpd.csproj.CoreCompileInputs.cache
+E:\Faks\Web\Vezbe04-resenje\Httpd\obj\Debug\Httpd.exe
+E:\Faks\Web\Vezbe04-resenje\Httpd\obj\Debug\Httpd.pdb

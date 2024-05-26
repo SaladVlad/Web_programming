@@ -1,0 +1,224 @@
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\obj\Debug\WebShop.csprojResolveAssemblyReference.cache
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\ApplicationInsights.config
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\roslyn\csc.exe
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\roslyn\vbc.exe
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\roslyn\VBCSCompiler.exe
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\WebShop.dll.config
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\WebShop.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\WebShop.pdb
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\Microsoft.AI.DependencyCollector.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\Microsoft.AI.Web.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\Microsoft.AI.WindowsServer.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\Microsoft.ApplicationInsights.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\System.Web.Helpers.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\System.Web.Razor.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\System.Web.WebPages.Deployment.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\System.Web.WebPages.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\System.Web.WebPages.Razor.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\Microsoft.AI.DependencyCollector.xml
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\Microsoft.AI.Web.xml
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\Microsoft.AI.WindowsServer.xml
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\Microsoft.ApplicationInsights.xml
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\System.Web.Helpers.xml
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\System.Web.Razor.xml
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\System.Web.WebPages.xml
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\System.Web.WebPages.Deployment.xml
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\bin\System.Web.WebPages.Razor.xml
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\obj\Debug\WebShop.dll
+D:\Nastava\Web programiranje PSI\workspace\WebShopASP\WebShop\WebShop\obj\Debug\WebShop.pdb
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\ApplicationInsights.config
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\roslyn\csc.exe
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\roslyn\System.Collections.Immutable.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\roslyn\System.Reflection.Metadata.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\roslyn\vbc.exe
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\roslyn\VBCSCompiler.exe
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\roslyn\VBCSCompiler.exe.config
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\WebShop.dll.config
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\WebShop.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\WebShop.pdb
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.Agent.Intercept.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.DependencyCollector.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.PerfCounterCollector.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.Web.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.WindowsServer.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\Microsoft.ApplicationInsights.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\Microsoft.Web.Infrastructure.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\System.Web.Helpers.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\System.Web.Razor.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\System.Web.WebPages.Deployment.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\System.Web.WebPages.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\System.Web.WebPages.Razor.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.DependencyCollector.xml
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.Web.xml
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.WindowsServer.xml
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\Microsoft.ApplicationInsights.xml
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\System.Web.Helpers.xml
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\System.Web.Razor.xml
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\System.Web.WebPages.xml
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\System.Web.WebPages.Deployment.xml
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\bin\System.Web.WebPages.Razor.xml
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\obj\Debug\WebShop.dll
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\obj\Debug\WebShop.pdb
+d:\Nastava\Web programiranje PSI\workspace\WebShop\WebShop\obj\Debug\WebShop.csprojResolveAssemblyReference.cache
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\ApplicationInsights.config
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\roslyn\csc.exe
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\roslyn\System.Collections.Immutable.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\roslyn\System.Reflection.Metadata.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\roslyn\vbc.exe
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\roslyn\VBCSCompiler.exe
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\roslyn\VBCSCompiler.exe.config
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\WebShop.dll.config
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\WebShop.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\WebShop.pdb
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.Agent.Intercept.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.DependencyCollector.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.PerfCounterCollector.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.Web.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.WindowsServer.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\Microsoft.ApplicationInsights.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\Microsoft.Web.Infrastructure.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\System.Web.Helpers.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\System.Web.Razor.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\System.Web.WebPages.Deployment.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\System.Web.WebPages.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\System.Web.WebPages.Razor.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.DependencyCollector.xml
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.Web.xml
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\Microsoft.AI.WindowsServer.xml
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\Microsoft.ApplicationInsights.xml
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\System.Web.Helpers.xml
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\System.Web.Razor.xml
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\System.Web.WebPages.xml
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\System.Web.WebPages.Deployment.xml
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\bin\System.Web.WebPages.Razor.xml
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\obj\Debug\WebShop.csprojResolveAssemblyReference.cache
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\obj\Debug\WebShop.dll
+d:\Nastava\Web programiranje - PSI\workspace\WebShop\WebShop\obj\Debug\WebShop.pdb
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\ApplicationInsights.config
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\roslyn\csc.exe
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\roslyn\System.Collections.Immutable.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\roslyn\vbc.exe
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\roslyn\VBCSCompiler.exe
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\roslyn\VBCSCompiler.exe.config
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\WebShop.dll.config
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\WebShop.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\WebShop.pdb
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\Microsoft.AI.DependencyCollector.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\Microsoft.AI.Web.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\Microsoft.AI.WindowsServer.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\Microsoft.ApplicationInsights.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\Microsoft.Web.Infrastructure.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\System.Web.Helpers.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\System.Web.Razor.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\System.Web.WebPages.Deployment.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\System.Web.WebPages.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\System.Web.WebPages.Razor.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\Microsoft.AI.DependencyCollector.xml
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\Microsoft.AI.Web.xml
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\Microsoft.AI.WindowsServer.xml
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\Microsoft.ApplicationInsights.xml
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\System.Web.Helpers.xml
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\System.Web.Razor.xml
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\System.Web.WebPages.xml
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\System.Web.WebPages.Deployment.xml
+C:\DotNetDev\WebPSI\WebShop\WebShop\bin\System.Web.WebPages.Razor.xml
+C:\DotNetDev\WebPSI\WebShop\WebShop\obj\Debug\WebShop.csprojResolveAssemblyReference.cache
+C:\DotNetDev\WebPSI\WebShop\WebShop\obj\Debug\WebShop.csproj.CoreCompileInputs.cache
+C:\DotNetDev\WebPSI\WebShop\WebShop\obj\Debug\WebShop.dll
+C:\DotNetDev\WebPSI\WebShop\WebShop\obj\Debug\WebShop.pdb
+C:\DotNetDev\WebPSI\WebShop\WebShop\obj\Debug\WebShop.csproj.CopyComplete
+E:\Faks\Web\WebShop\WebShop\bin\ApplicationInsights.config
+E:\Faks\Web\WebShop\WebShop\bin\roslyn\csc.exe
+E:\Faks\Web\WebShop\WebShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Faks\Web\WebShop\WebShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Faks\Web\WebShop\WebShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Faks\Web\WebShop\WebShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Faks\Web\WebShop\WebShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Faks\Web\WebShop\WebShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Faks\Web\WebShop\WebShop\bin\roslyn\System.Collections.Immutable.dll
+E:\Faks\Web\WebShop\WebShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\Faks\Web\WebShop\WebShop\bin\roslyn\vbc.exe
+E:\Faks\Web\WebShop\WebShop\bin\roslyn\VBCSCompiler.exe
+E:\Faks\Web\WebShop\WebShop\bin\roslyn\VBCSCompiler.exe.config
+E:\Faks\Web\WebShop\WebShop\bin\WebShop.dll.config
+E:\Faks\Web\WebShop\WebShop\bin\WebShop.dll
+E:\Faks\Web\WebShop\WebShop\bin\WebShop.pdb
+E:\Faks\Web\WebShop\WebShop\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Faks\Web\WebShop\WebShop\bin\Microsoft.AI.DependencyCollector.dll
+E:\Faks\Web\WebShop\WebShop\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Faks\Web\WebShop\WebShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Faks\Web\WebShop\WebShop\bin\Microsoft.AI.Web.dll
+E:\Faks\Web\WebShop\WebShop\bin\Microsoft.AI.WindowsServer.dll
+E:\Faks\Web\WebShop\WebShop\bin\Microsoft.ApplicationInsights.dll
+E:\Faks\Web\WebShop\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Faks\Web\WebShop\WebShop\bin\Microsoft.Web.Infrastructure.dll
+E:\Faks\Web\WebShop\WebShop\bin\System.Web.Helpers.dll
+E:\Faks\Web\WebShop\WebShop\bin\System.Web.Razor.dll
+E:\Faks\Web\WebShop\WebShop\bin\System.Web.WebPages.Deployment.dll
+E:\Faks\Web\WebShop\WebShop\bin\System.Web.WebPages.dll
+E:\Faks\Web\WebShop\WebShop\bin\System.Web.WebPages.Razor.dll
+E:\Faks\Web\WebShop\WebShop\bin\Microsoft.AI.DependencyCollector.xml
+E:\Faks\Web\WebShop\WebShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Faks\Web\WebShop\WebShop\bin\Microsoft.AI.Web.xml
+E:\Faks\Web\WebShop\WebShop\bin\Microsoft.AI.WindowsServer.xml
+E:\Faks\Web\WebShop\WebShop\bin\Microsoft.ApplicationInsights.xml
+E:\Faks\Web\WebShop\WebShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Faks\Web\WebShop\WebShop\bin\System.Web.Helpers.xml
+E:\Faks\Web\WebShop\WebShop\bin\System.Web.Razor.xml
+E:\Faks\Web\WebShop\WebShop\bin\System.Web.WebPages.xml
+E:\Faks\Web\WebShop\WebShop\bin\System.Web.WebPages.Deployment.xml
+E:\Faks\Web\WebShop\WebShop\bin\System.Web.WebPages.Razor.xml
+E:\Faks\Web\WebShop\WebShop\obj\Debug\WebShop.csproj.AssemblyReference.cache
+E:\Faks\Web\WebShop\WebShop\obj\Debug\WebShop.csproj.CoreCompileInputs.cache
+E:\Faks\Web\WebShop\WebShop\obj\Debug\WebShop.csproj.Up2Date
+E:\Faks\Web\WebShop\WebShop\obj\Debug\WebShop.dll
+E:\Faks\Web\WebShop\WebShop\obj\Debug\WebShop.pdb

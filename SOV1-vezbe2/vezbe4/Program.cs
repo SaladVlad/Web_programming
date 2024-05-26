@@ -81,6 +81,7 @@ namespace vezbe4
                 string grad = vars[1].Split('=')[1];
                 grad.Replace('+', ' ');
                 bool aktivan = vars[2].Split('=')[1].Equals("on");
+
                 Klubovi.Add(new Klub(naziv, grad, aktivan, 0));
 
                 sw.WriteLine("HTTP/1.0 200 OK\n\r\n\r");

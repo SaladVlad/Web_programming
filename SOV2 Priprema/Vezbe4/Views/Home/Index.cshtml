@@ -1,0 +1,43 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    @{ 
+        var message_get = Request["message_get"] != null ? Request["message_get"] : "";
+        var message_post = Request["message_post"] != null ? Request["message_post"] : "";
+
+        if(message_get != "")
+        {
+            <p style="color:green">Message @Request.HttpMethod : @message_get</p>
+        }
+        if(message_post != "")
+        {
+            <p style="color:green">Message @Request.HttpMethod : @message_post</p>
+        }
+        if(message_post == "" && message_post == "")
+            {
+                <p style="color:red">No new messages</p>
+            }
+    }
+    <div>
+        Hello world
+
+        <form method="post" action="/">
+            <label>Type message:</label>
+            <input name="message_post" />
+            <input type="submit" />
+        </form>
+
+        <a href="/Views/Home/Index.cshtml?message_get=Hello">Send message using get</a>
+
+    </div>
+</body>
+</html>
